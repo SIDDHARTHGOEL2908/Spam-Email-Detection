@@ -1,3 +1,4 @@
+HEAD
 # 📧 AI-Powered Spam Email Detection System
 
 > A Machine Learning-based web application that detects whether an Email
@@ -112,3 +113,7 @@ GitHub.
 **Siddharth Goel**
 
 AI/ML Engineering Internship Project.
+=======
+# Spam-Email-Detection
+AI Powered Spam Email Detection using Machine Learning and Streamlit
+>>>>>>> 7b6eb9e4ae479dacd6c1068f58fd9bef570454b4
